@@ -3,10 +3,6 @@ body {
     background-color: #cefdce;/*#a8f9a8;*/
 }
 
-.favicon {
-    border-radius: 0px 18px 18px 0px;    
-}
-
 .sm-container-odd {
     background-color: #cefdce;/*#82d7f1;*/
     padding-top: 2rem;
